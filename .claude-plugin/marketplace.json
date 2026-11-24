@@ -1,0 +1,12 @@
+{
+  "name": "write-short",
+  "description": "A skill that makes your AI agent write so you understand it on the first read.",
+  "owner": { "name": "dushkevich" },
+  "plugins": [
+    {
+      "name": "write-short",
+      "source": "./",
+      "description": "Makes Claude write replies you understand on the first read: answer first, plain words, no jargon, exact facts, clear questions."
+    }
+  ]
+}
