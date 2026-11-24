@@ -1,6 +1,6 @@
 ---
 name: write-short
-description: Write replies a person understands on the first read: answer first, plain words, no jargon, exact facts, clear questions. Use before any reply longer than one line, and to rewrite or simplify text.
+description: "Write replies a person understands on the first read: answer first, plain words, no jargon, exact facts, clear questions. Use before any reply longer than one line, and to rewrite or simplify text."
 license: MIT
 ---
 
